@@ -1,0 +1,39 @@
+{
+  "current_position": "Java developer",
+  "stage": "job_desc",
+  "position_details": {
+    "Java developer": {
+      "skills": [
+        "Java"
+      ],
+      "budget": null,
+      "timeline": null,
+      "experience_level": "1-5 year experience",
+      "location": "remote"
+    }
+  },
+  "clarification_complete": true,
+  "session_state": {
+    "start_time": "2025-04-11T00:34:31.962084",
+    "position": "Java developer",
+    "completed_steps": [
+      "extract_hiring_needs"
+    ],
+    "position_history": [
+      "Java developer"
+    ],
+    "timestamp": "2025-04-11T00:35:18.844919",
+    "last_question": "What are the key skills or requirements needed for the Java developer position?",
+    "interaction_count": 3,
+    "last_response": "Java",
+    "extracted_details": {
+      "experience_level": "1-5 year experience",
+      "location": "remote",
+      "skills": [
+        "Java"
+      ]
+    },
+    "clarification_complete": true
+  },
+  "timestamp": "2025-04-11T00:35:18.844919"
+}

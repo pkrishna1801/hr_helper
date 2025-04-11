@@ -1,0 +1,11 @@
+{
+    "dockerfile_lines": [],
+    "graphs": {
+    "half_helper":"./test1.py:hr_helper"
+    },
+    "env": "./.env",
+    "python_version": "3.12",
+    "dependencies": [
+        "."
+    ]
+}

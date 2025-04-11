@@ -1,0 +1,35 @@
+{
+  "current_position": "machine learning intern",
+  "stage": "complete",
+  "session_state": {
+    "start_time": "2025-04-10T23:12:39.959936",
+    "position": "machine learning intern",
+    "completed_steps": [
+      "extract_hiring_needs",
+      "job_description",
+      "hiring_plan",
+      "market_research",
+      "email_templates",
+      "checklists"
+    ],
+    "position_history": [
+      "machine learning intern"
+    ],
+    "timestamp": "2025-04-10T23:14:20.146411",
+    "last_question": "What is the work location or arrangement for the machine learning intern position (e.g., remote, on-site, hybrid)?",
+    "interaction_count": 3,
+    "last_response": "remote",
+    "extracted_details": {
+      "skills": [
+        "Python",
+        "machine learning"
+      ],
+      "budget": "100k",
+      "location": "remote"
+    },
+    "clarification_complete": true,
+    "status": "complete",
+    "completed": true
+  },
+  "timestamp": "2025-04-10T23:14:20.146411"
+}

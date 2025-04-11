@@ -1,0 +1,102 @@
+{
+  "current_position": "Java Developer",
+  "stage": "complete",
+  "job_descriptions": {
+    "Java Developer": "# Job Description: Java Developer\n\n## About the Role\n\nWe are seeking a motivated and talented **Java Developer** to join our dynamic team. This entry-level position is perfect for individuals passionate about software development and eager to grow their skills in a supportive and innovative environment. As a Java Developer, you will work remotely, collaborating with a diverse team to design, develop, and maintain high-quality software solutions.\n\n## Responsibilities\n\n- Develop, test, and maintain Java-based applications using best practices and design patterns.\n- Collaborate with cross-functional teams to define, design, and ship new features.\n- Participate in code reviews to maintain high-quality code and ensure adherence to development standards.\n- Implement and manage Continuous Integration/Continuous Deployment (CI/CD) pipelines to streamline the development process.\n- Utilize the Spring framework to build robust and scalable applications.\n- Troubleshoot and resolve software defects and issues in a timely manner.\n- Stay updated with the latest industry trends and technologies to continuously improve development practices.\n\n## Requirements\n\n- Bachelor's degree in Computer Science, Information Technology, or a related field.\n- Proficiency in Java programming language.\n- Familiarity with CI/CD tools and processes.\n- Basic understanding of the Spring framework.\n- Strong problem-solving skills and attention to detail.\n- Excellent communication and teamwork abilities.\n- Ability to work independently in a remote setting.\n\n## Nice-to-Have Skills\n\n- Experience with cloud platforms such as AWS, Azure, or Google Cloud.\n- Knowledge of front-end technologies like HTML, CSS, and JavaScript.\n- Familiarity with version control systems, particularly Git.\n- Understanding of Agile methodologies and practices.\n\n## Benefits\n\n- Competitive salary with opportunities for growth and advancement.\n- Flexible remote work environment.\n- Comprehensive health, dental, and vision insurance.\n- Generous paid time off and holidays.\n- Professional development opportunities and access to online learning resources.\n- Collaborative and inclusive company culture.\n\n## Application Process\n\nInterested candidates are invited to submit their resume and a cover letter detailing their interest in the role and relevant experience. Please include any links to your GitHub profile or portfolio showcasing your work. Applications will be reviewed on a rolling basis, and selected candidates will be contacted for an initial phone interview. Successful candidates will then proceed to technical assessments and final interviews with the team.\n\nWe are excited to welcome a new member to our team and look forward to seeing how you can contribute to our success!"
+  },
+  "hiring_plans": {
+    "Java Developer": "# Hiring Plan and Checklist for Java Developer (Entry Level, Remote)\n\n## Sourcing Candidates\n- [ ] **Job Description Creation**\n  - [ ] Clearly outline responsibilities and expectations.\n  - [ ] Highlight required skills: Java, CI/CD, SPRING.\n  - [ ] Emphasize remote work environment and entry-level experience.\n\n- [ ] **Job Posting Platforms**\n  - [ ] Post on major job boards (Indeed, LinkedIn, Glassdoor).\n  - [ ] Utilize niche tech job boards (Stack Overflow, GitHub Jobs).\n  - [ ] Share on social media platforms (LinkedIn, Twitter).\n\n- [ ] **Networking and Referrals**\n  - [ ] Reach out to professional networks and alumni groups.\n  - [ ] Encourage employee referrals with incentives.\n\n- [ ] **University and Bootcamp Outreach**\n  - [ ] Partner with universities and coding bootcamps.\n  - [ ] Attend virtual career fairs and tech meetups.\n\n## Screening Process\n- [ ] **Resume Review**\n  - [ ] Check for relevant skills: Java, CI/CD, SPRING.\n  - [ ] Look for educational background in computer science or related fields.\n  - [ ] Note any relevant internships or projects.\n\n- [ ] **Initial Screening Call**\n  - [ ] Confirm candidate's interest in remote work.\n  - [ ] Discuss basic technical skills and experience.\n  - [ ] Evaluate communication skills and cultural fit.\n\n## Interview Stages\n- [ ] **Technical Interview**\n  - [ ] Conduct a coding test focused on Java.\n  - [ ] Assess understanding of CI/CD and SPRING frameworks.\n  - [ ] Use online coding platforms for real-time problem-solving.\n\n- [ ] **Behavioral Interview**\n  - [ ] Explore past experiences and problem-solving approaches.\n  - [ ] Discuss teamwork and collaboration in a remote setting.\n  - [ ] Evaluate adaptability and willingness to learn.\n\n- [ ] **Final Interview with Team Lead**\n  - [ ] Discuss role expectations and team dynamics.\n  - [ ] Provide an opportunity for candidate to ask questions.\n  - [ ] Assess long-term career goals and alignment with company values.\n\n## Assessment Methods\n- [ ] **Technical Assessment**\n  - [ ] Use a standardized coding test for Java proficiency.\n  - [ ] Evaluate practical application of CI/CD and SPRING.\n\n- [ ] **Soft Skills Evaluation**\n  - [ ] Use situational judgment tests to assess problem-solving.\n  - [ ] Conduct personality assessments to gauge cultural fit.\n\n## Decision Timeline\n- [ ] **Candidate Evaluation**\n  - [ ] Gather feedback from all interviewers.\n  - [ ] Compare candidates against job requirements and team needs.\n\n- [ ] **Offer Decision**\n  - [ ] Make a decision within one week of final interview.\n  - [ ] Prepare and send offer letter promptly.\n\n- [ ] **Candidate Communication**\n  - [ ] Notify unsuccessful candidates with constructive feedback.\n  - [ ] Maintain a positive relationship for future opportunities.\n\n## Onboarding Steps\n- [ ] **Pre-Onboarding Preparation**\n  - [ ] Send welcome package with company information.\n  - [ ] Set up necessary accounts and access for remote work.\n\n- [ ] **First Day Orientation**\n  - [ ] Introduce to team members via virtual meeting.\n  - [ ] Provide overview of company culture and values.\n\n- [ ] **Training and Development**\n  - [ ] Schedule training sessions on company tools and processes.\n  - [ ] Assign a mentor for guidance and support.\n\n- [ ] **Feedback and Check-ins**\n  - [ ] Conduct regular check-ins during the first 90 days.\n  - [ ] Gather feedback on onboarding experience and address any concerns. \n\nThis structured hiring plan ensures a comprehensive approach to sourcing, evaluating, and onboarding a qualified Java Developer for a remote, entry-level position."
+  },
+  "draft_emails": {
+    "Java Developer": {
+      "invitation_candidate": "Error generating email: BaseTool.__call__() got an unexpected keyword argument 'position'",
+      "rejection_candidate": "Error generating email: BaseTool.__call__() got an unexpected keyword argument 'position'",
+      "offer_candidate": "Error generating email: BaseTool.__call__() got an unexpected keyword argument 'position'",
+      "coordination_hiring manager": "Error generating email: BaseTool.__call__() got an unexpected keyword argument 'position'"
+    }
+  },
+  "checklists": {
+    "Java Developer": {
+      "screening": [
+        {
+          "item": "Error creating screening checklist: BaseTool.__call__() got an unexpected keyword argument 'position'",
+          "category": "Error",
+          "timeline": "N/A",
+          "assignee": "HR",
+          "completed": false
+        }
+      ],
+      "interview": [
+        {
+          "item": "Error creating interview checklist: BaseTool.__call__() got an unexpected keyword argument 'position'",
+          "category": "Error",
+          "timeline": "N/A",
+          "assignee": "HR",
+          "completed": false
+        }
+      ],
+      "onboarding": [
+        {
+          "item": "Error creating onboarding checklist: BaseTool.__call__() got an unexpected keyword argument 'position'",
+          "category": "Error",
+          "timeline": "N/A",
+          "assignee": "HR",
+          "completed": false
+        }
+      ]
+    }
+  },
+  "search_results": {
+    "Java Developer": [
+      {
+        "type": "market_research",
+        "query": "Java Developer salary ranges Entry Remote Java, CI/CD, SPRING",
+        "results": "[\n  {\n    \"title\": \"Entry Level Java Developer in Remote 2025 - Salaries - Glassdoor\",\n    \"url\": \"https://www.glassdoor.com/Salaries/remote-entry-level-java-developer-salary-SRCH_IL.0,6_IS12665_KO7,33.htm\",\n    \"content\": \"The estimated total pay for a Entry Level Java Developer is $103,500 per year in the Remote area, with an average salary of $91,000 per year. These numbers\",\n    \"score\": 0.7811474\n  },\n  {\n    \"title\": \"54 Entry level software remote java jobs in United States - Glassdoor\",\n    \"url\": \"https://www.glassdoor.com/Job/entry-level-software-remote-java-jobs-SRCH_KO0,32.htm\",\n    \"content\": \"$121K - $200K (Employer est.) Salary or hourly rate ranges have been implemented to reward associates fairly and competitively, as well as to support\",\n    \"score\": 0.6999322\n  },\n  {\n    \"title\": \"$49-$88/hr Spring Boot Java Developer Remote Jobs - ZipRecruiter\",\n    \"url\": \"https://www.ziprecruiter.com/Jobs/Spring-Boot-Java-Developer-Remote\",\n    \"content\": \"Browse 19997 SPRING BOOT JAVA DEVELOPER REMOTE jobs ($49-$88/hr) from companies near you with job openings that are hiring now and 1-click apply!\",\n    \"score\": 0.6824261\n  },\n  {\n    \"title\": \"Remote Java Developer Salary: Hourly Rate April 2025 USA\",\n    \"url\": \"https://www.ziprecruiter.com/Salaries/Remote-Java-Developer-Salary\",\n    \"content\": \"A Remote Java Developer in your area makes on average $58 per hour, or $1.71 (30.145%) more than the national average hourly salary of $56.70.\",\n    \"score\": 0.5951402\n  },\n  {\n    \"title\": \"Comprehensive Java Developer Salary Guide for 2025\",\n    \"url\": \"https://alifbyteedu.com/java-developer-salary-guide/\",\n    \"content\": \"Entry-level developers typically earn around $81,194 per year, while those with 10-14 years of experience can earn up to $183,000 per year.\",\n    \"score\": 0.5780915\n  }\n]",
+        "summary": "For the position of a Java Developer, particularly in remote roles, the salary range varies significantly based on experience and specific job requirements. Entry-level Java Developers can expect to earn between $81,194 and $103,500 annually, with some positions offering up to $121K-$200K. Hourly rates for Java Developers, especially those skilled in Spring Boot, range from $49 to $88, with an average of $58 per hour.\n\nKey skills in demand include proficiency in Java and Spring Boot, which are crucial for many remote positions. The market demand for Java Developers remains strong, with numerous job openings available, indicating a competitive landscape for hiring.\n\nFor hiring managers, offering competitive salaries and emphasizing opportunities for skill development in Java and related technologies can attract top talent. Additionally, highlighting remote work flexibility can be a significant advantage in attracting candidates."
+      }
+    ]
+  },
+  "position_details": {
+    "Java Developer": {
+      "skills": [
+        "Java",
+        "CI/CD",
+        "SPRING"
+      ],
+      "budget": null,
+      "timeline": null,
+      "experience_level": "Entry",
+      "location": "Remote"
+    }
+  },
+  "session_state": {
+    "start_time": "2025-04-10T23:36:25.109817",
+    "position": "Java Developer",
+    "completed_steps": [
+      "extract_hiring_needs",
+      "job_description",
+      "hiring_plan",
+      "market_research",
+      "complete"
+    ],
+    "position_history": [
+      "Java Developer"
+    ],
+    "timestamp": "2025-04-10T23:37:37.914743",
+    "last_question": "What are the key skills or requirements for the Java Developer position?",
+    "interaction_count": 3,
+    "last_response": "Java, CI/CD, SPRING",
+    "extracted_details": {
+      "experience_level": "Entry",
+      "location": "Remote",
+      "skills": [
+        "Java",
+        "CI/CD",
+        "SPRING"
+      ]
+    },
+    "clarification_complete": true,
+    "status": "complete"
+  },
+  "timestamp": "2025-04-10T23:37:37.914743"
+}

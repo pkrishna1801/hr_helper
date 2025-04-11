@@ -1,0 +1,5 @@
+{
+  "error": "Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT",
+  "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\prart\\hr-helper\\hr_helper.py\", line 2096, in run_hr_helper\n    result = hr_helper.invoke(initial_state)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\prart\\anaconda3\\envs\\assignment_2\\Lib\\site-packages\\langgraph\\pregel\\__init__.py\", line 2717, in invoke\n    for chunk in self.stream(\n  File \"C:\\Users\\prart\\anaconda3\\envs\\assignment_2\\Lib\\site-packages\\langgraph\\pregel\\__init__.py\", line 2376, in stream\n    raise GraphRecursionError(msg)\nlanggraph.errors.GraphRecursionError: Recursion limit of 25 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/GRAPH_RECURSION_LIMIT\n",
+  "timestamp": "2025-04-11T01:57:14.171475"
+}

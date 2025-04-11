@@ -1,0 +1,44 @@
+{
+  "current_position": "Software Developer",
+  "stage": "plan",
+  "position_details": {
+    "Software Developer": {
+      "skills": [
+        "Critical Thinking",
+        "Communication",
+        "Problem Solving"
+      ],
+      "budget": "Competitive salary, based on experience",
+      "timeline": "As soon as possible",
+      "experience_level": "3+ years of relevant experience",
+      "location": "Flexible location"
+    }
+  },
+  "messages": [
+    {
+      "type": "human",
+      "content": "we need to hire intern",
+      "timestamp": "2025-04-11T01:39:30.042424"
+    },
+    {
+      "type": "ai",
+      "content": "I'll help you hire for the Software Developer position. Let's start by gathering some details. Could you tell me more about the required skills for this role?",
+      "timestamp": "2025-04-11T01:39:30.042424"
+    }
+  ],
+  "session_state": {
+    "start_time": "2025-04-11T01:39:30.042424",
+    "position": "Software Developer",
+    "completed_steps": [
+      "extract_hiring_needs"
+    ],
+    "position_history": [
+      "Software Developer"
+    ],
+    "timestamp": "2025-04-11T01:39:30.042424"
+  },
+  "timestamp": "2025-04-11T01:39:30.042424",
+  "job_descriptions": {
+    "Software Developer": "# Software Developer\n\n## About the Role\nWe are seeking a talented Software Developer to join our team. This role offers an opportunity to work on exciting projects and make a significant impact.\n\n## Responsibilities\n- Collaborate with team members to achieve project goals\n- Apply technical expertise to solve complex problems\n- Stay updated with industry trends and technologies\n\n## Requirements\n- 3+ years of relevant experience\n- Proficiency in Critical Thinking, Communication, Problem Solving\n- Strong problem-solving and analytical skills\n- Excellent communication and teamwork abilities\n\n## Benefits\n- Competitive salary, based on experience\n- Professional development opportunities\n- Flexible location work arrangement\n\n## How to Apply\nPlease submit your resume and a brief cover letter outlining your qualifications.\n"
+  }
+}

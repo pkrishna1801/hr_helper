@@ -1,0 +1,98 @@
+{
+  "current_position": "machine learning intern",
+  "stage": "complete",
+  "job_descriptions": {
+    "machine learning intern": "# Machine Learning Intern\n\n## About the Role\n\nWe are seeking a passionate and motivated Machine Learning Intern to join our dynamic team in Boston. This is an exciting opportunity for individuals looking to gain hands-on experience in the field of machine learning and contribute to real-world projects. As a Machine Learning Intern, you will work closely with our experienced data scientists and engineers, gaining valuable insights and skills that will enhance your career in technology.\n\n## Responsibilities\n\n- Collaborate with the data science team to develop and implement machine learning models.\n- Assist in data preprocessing, feature engineering, and model evaluation.\n- Conduct research to identify new algorithms and techniques to improve model performance.\n- Participate in team meetings and contribute ideas for project improvements.\n- Document processes and results, ensuring reproducibility and clarity.\n- Support the deployment of machine learning models into production environments.\n\n## Requirements\n\n- Basic knowledge of machine learning concepts and algorithms.\n- Familiarity with programming languages such as Python or R.\n- Understanding of data structures, data modeling, and software architecture.\n- Strong analytical and problem-solving skills.\n- Ability to work collaboratively in a team environment.\n- Excellent communication skills, both written and verbal.\n\n## Nice-to-Have Skills\n\n- Experience with machine learning libraries such as TensorFlow, PyTorch, or scikit-learn.\n- Knowledge of data visualization tools like Matplotlib or Seaborn.\n- Exposure to cloud platforms such as AWS, Google Cloud, or Azure.\n- Understanding of version control systems like Git.\n\n## Benefits\n\n- Competitive stipend of $10,000.\n- Opportunity to work with a talented and experienced team.\n- Gain practical experience in machine learning and data science.\n- Flexible working hours to accommodate academic commitments.\n- Networking opportunities with industry professionals.\n- Potential for future full-time employment based on performance.\n\n## Application Process\n\nInterested candidates are encouraged to apply by submitting their resume and a cover letter detailing their interest in the role and relevant experience. Applications will be reviewed on a rolling basis, and selected candidates will be contacted for an interview. We look forward to welcoming a new member to our team who is eager to learn and contribute to exciting machine learning projects.\n\n---\n\nJoin us in Boston and take the first step towards a rewarding career in machine learning!"
+  },
+  "hiring_plans": {
+    "machine learning intern": "# Hiring Plan and Checklist for Machine Learning Intern\n\n## Sourcing Candidates\n- [ ] **Job Posting**\n  - [ ] Create a detailed job description highlighting key responsibilities and required skills.\n  - [ ] Post the job on company website and relevant job boards (e.g., Indeed, Glassdoor).\n  - [ ] Share the job posting on social media platforms (LinkedIn, Twitter).\n  - [ ] Reach out to local universities and colleges in Boston for internship programs.\n  - [ ] Utilize employee referral programs to encourage current employees to refer candidates.\n\n- [ ] **Networking and Events**\n  - [ ] Attend local tech meetups and machine learning conferences in Boston.\n  - [ ] Partner with university career centers for internship fairs and events.\n  - [ ] Engage with online communities and forums related to machine learning.\n\n## Screening Process\n- [ ] **Resume Review**\n  - [ ] Screen resumes for relevant coursework and projects in machine learning.\n  - [ ] Look for any experience with machine learning tools and languages (e.g., Python, TensorFlow).\n  - [ ] Shortlist candidates who demonstrate a strong academic background in related fields.\n\n- [ ] **Initial Screening Call**\n  - [ ] Conduct a 15-20 minute phone call to assess candidate's interest and availability.\n  - [ ] Verify basic understanding of machine learning concepts.\n  - [ ] Discuss candidate's academic projects or any relevant experience.\n\n## Interview Stages\n- [ ] **Technical Interview**\n  - [ ] Schedule a 30-45 minute technical interview with a machine learning engineer.\n  - [ ] Prepare questions on basic machine learning algorithms and concepts.\n  - [ ] Include a simple coding exercise to assess problem-solving skills.\n\n- [ ] **Behavioral Interview**\n  - [ ] Conduct a 30-minute interview to evaluate cultural fit and communication skills.\n  - [ ] Ask situational questions to understand teamwork and adaptability.\n\n- [ ] **Final Interview**\n  - [ ] Arrange a meeting with the hiring manager and team members.\n  - [ ] Discuss the candidate's potential contributions to ongoing projects.\n  - [ ] Provide an opportunity for the candidate to ask questions about the role and team.\n\n## Assessment Methods\n- [ ] **Technical Assessment**\n  - [ ] Assign a take-home project related to machine learning (e.g., data analysis, model building).\n  - [ ] Evaluate the candidate's approach, code quality, and results.\n\n- [ ] **Feedback Collection**\n  - [ ] Gather feedback from all interviewers and assessors.\n  - [ ] Use a standardized evaluation form to ensure consistency.\n\n## Decision Timeline\n- [ ] **Candidate Evaluation**\n  - [ ] Review all feedback and assessments within 3 days of the final interview.\n  - [ ] Make a decision on the candidate's suitability for the internship.\n\n- [ ] **Offer Extension**\n  - [ ] Extend an offer to the selected candidate within 5 days of the final interview.\n  - [ ] Clearly outline the internship terms, including salary and duration.\n\n## Onboarding Steps\n- [ ] **Pre-Onboarding**\n  - [ ] Send a welcome email with internship details and start date.\n  - [ ] Provide access to necessary tools and resources (e.g., email, software).\n\n- [ ] **First Day Orientation**\n  - [ ] Conduct an orientation session to introduce company culture and policies.\n  - [ ] Introduce the intern to the team and assign a mentor.\n\n- [ ] **Training and Development**\n  - [ ] Schedule training sessions on company-specific tools and processes.\n  - [ ] Set up regular check-ins with the mentor to track progress and provide feedback.\n\n- [ ] **Ongoing Support**\n  - [ ] Encourage participation in team meetings and projects.\n  - [ ] Provide opportunities for learning and development throughout the internship."
+  },
+  "draft_emails": {
+    "machine learning intern": {
+      "invitation_candidate": "Error generating email: BaseTool.__call__() got an unexpected keyword argument 'position'",
+      "rejection_candidate": "Error generating email: BaseTool.__call__() got an unexpected keyword argument 'position'",
+      "offer_candidate": "Error generating email: BaseTool.__call__() got an unexpected keyword argument 'position'",
+      "coordination_hiring manager": "Error generating email: BaseTool.__call__() got an unexpected keyword argument 'position'"
+    }
+  },
+  "checklists": {
+    "machine learning intern": {
+      "screening": [
+        {
+          "item": "Error creating screening checklist: BaseTool.__call__() got an unexpected keyword argument 'position'",
+          "category": "Error",
+          "timeline": "N/A",
+          "assignee": "HR",
+          "completed": false
+        }
+      ],
+      "interview": [
+        {
+          "item": "Error creating interview checklist: BaseTool.__call__() got an unexpected keyword argument 'position'",
+          "category": "Error",
+          "timeline": "N/A",
+          "assignee": "HR",
+          "completed": false
+        }
+      ],
+      "onboarding": [
+        {
+          "item": "Error creating onboarding checklist: BaseTool.__call__() got an unexpected keyword argument 'position'",
+          "category": "Error",
+          "timeline": "N/A",
+          "assignee": "HR",
+          "completed": false
+        }
+      ]
+    }
+  },
+  "search_results": {
+    "machine learning intern": [
+      {
+        "type": "market_research",
+        "query": "machine learning intern salary ranges None boston machine learning knowledge",
+        "results": "[\n  {\n    \"title\": \"Machine Learning Intern Salary in Boston, MA\",\n    \"url\": \"https://www.salary.com/research/salary/hiring/machine-learning-intern-salary/boston-ma\",\n    \"content\": \"Build a Career You'll Love\\n\\nMachine Learning Intern Salary in Boston, MA\\n\\nHow much does a Machine Learning Intern make in Boston, MA?\\r\\n        The salary range for a Machine Learning Intern job is from $124,052 to $184,190 per year in Boston, MA.\\r\\n        Click on the filter to check out Machine Learning Intern job salaries by hourly, weekly, biweekly, semimonthly, monthly, and yearly.\\n\\nHOW SHOULD YOU USE THIS DATA? [...] Employers: This data could be used as reference point in your market pricing,\\r\\n                        but not the only source, due to differences across jobs locations, and sizes of companies.Consider additional sources like our Employer reported data.\\n\\nHighest Paying Cities for Machine Learning Intern near Boston, MA\\n\\nStates with Higher Salaries for Machine Learning Intern\\n\\nHow Much Do Similar Professions Get Paid in Boston, MA?\\n\\nHow Much Should You Be Earning? [...] What Does a Machine Learning Intern Do?\\n\\nAlthough machine learning has been transformative in some fields, machine-learning programs often fail to deliver expected results.\\n\\nDecember 20, 2021\\n\\nIs an area of supervised machine learning closely related to regression and classification, but the goal is to learn from examples using a similarity function that measures how similar or related two objects are.\\n\\nDecember 19, 2021\",\n    \"score\": 0.89501935\n  },\n  {\n    \"title\": \"Machine Learning Engineer Salary in Boston 2025 (Updated Daily)\",\n    \"url\": \"https://www.builtinboston.com/salaries/dev-engineer/machine-learning-engineer/boston\",\n    \"content\": \"What does a machine learning engineer do?\\n\\nHow to become a machine learning engineer?\\n\\nHow much does a machine learning engineer make?\\n\\nThe salary range for a machine learning engineer is $44K-$170K.\\u00a0The average salary for a\\u00a0Machine Learning Engineer in Boston, MA is $164,700.\\n\\nCareer Info\\n\\nMachine Learning Engineer jobs in Boston, MA\\n\\nSkills that affect Machine Learning Engineer salaries in Boston, MA\\n\\nAverage Machine Learning Engineer Salary by Company Size [...] The average salary for a Machine Learning Engineer in Boston, MA is $164,700. The average additional cash compensation for a Machine Learning Engineer in Boston, MA is $10,000. The average total compensation for a Machine Learning Engineer in Boston, MA is $174,700. Machine Learning Engineer salaries are based on responses gathered by Built In from anonymous Machine Learning Engineer employees in Boston, MA.\\n\\nBIX Salary Headers Tab\\n\\nSalary Insights\\n\\nMachine Learning Engineer Salary by gender [...] Job Title | Average Salary | Salary Range\\nQA Analyst | $70,857 | Min: $45KMax: $103K\\nBlockchain Developer | $75,000 | Min: $75KMax: $75K\\nImplementation Specialist | $78,363 | Min: $60KMax: $140K\\nApplication Engineer | $84,000 | Min: $84KMax: $84K\\nJunior Software Engineer | $94,944 | Min: $70KMax: $126K\\nFull Stack Developer | $96,667 | Min: $90KMax: $110K\\nQA Engineer | $102,657 | Min: $70KMax: $180K\\nAutomation Engineer | $107,579 | Min: $75KMax: $180K\",\n    \"score\": 0.7166357\n  },\n  {\n    \"title\": \"Machine Learning Intern - LinkedIn\",\n    \"url\": \"https://www.linkedin.com/jobs/search/?currentJobId=3786805101&geoId=103644278&keywords=%22machine%20learning%20intern%22%20OR%20%22machine%20learning%20internship%22%20OR%20%22machine%20learning%20engineer%20intern%22%20OR%20%22machine%20learning%20engineer%20internship%22&location=United%20States&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD\",\n    \"content\": \"Base Salary Range Region 1:$137,800 - $155,000. Base Salary Range Region 2: $117,100 - $131,800. Shift: Day Travel: None Workplace Type: Onsite - This job is\",\n    \"score\": 0.6999322\n  },\n  {\n    \"title\": \"Machine Learning Engineer, PhD Intern - Instacart | Built In Boston\",\n    \"url\": \"https://www.builtinboston.com/job/machine-learning-engineer-phd-intern/2272536\",\n    \"content\": \"For US based candidates, the base pay ranges for a successful candidate are listed below.\\n\\nCA, NY, CT, NJ\\n\\n$50\\u2014$50 USD\\n\\nWA\\n\\n$47.50\\u2014$47.50 USD\\n\\nOR, DE, ME, MA, MD, NH, RI, VT, DC, PA, VA, CO, TX, IL, HI\\n\\n$45\\u2014$45 USD\\n\\nAll other states\\n\\n$42\\u2014$42 USD\\n\\nTop Skills\\n\\nSimilar Jobs at Instacart\\n\\nAccount Manager\\n\\nCustomer Experience Retail Specialist\\n\\nStaff Software Engineer, Storage\\n\\nWhat you need to know about the Boston Tech Scene\\n\\nKey Facts About Boston Tech\\n\\nSign up now\\nAccess later [...] Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy here.\\n\\nOffers may vary based on many factors, such as candidate experience and skills required for the role. Please read more about our benefits offerings here. [...] Please log in or sign up to report this job.\",\n    \"score\": 0.69573146\n  },\n  {\n    \"title\": \"Machine Learning Engineer Intern Salary in Massachusetts\",\n    \"url\": \"https://www.ziprecruiter.com/Salaries/Machine-Learning-Engineer-Intern-Salary--in-Massachusetts\",\n    \"content\": \"The avg MACHINE LEARNING ENGINEER INTERN SALARY in Massachusetts, as of Mar 2025, is $22.36 an hour or $46507 per year. Get paid what you're worth!\",\n    \"score\": 0.643173\n  }\n]",
+        "summary": "For a Machine Learning Intern position in Boston, MA, the salary range is notably high, between $124,052 and $184,190 annually. This suggests a strong market demand and potentially high expectations for skills and contributions. Comparatively, a Machine Learning Engineer in Boston earns an average of $164,700, indicating that intern roles are competitively compensated, possibly due to the technical skills required.\n\nKey skills for these roles likely include proficiency in machine learning algorithms, data analysis, and programming languages such as Python or R. The demand for machine learning expertise is high, as evidenced by the competitive salaries and the presence of roles across various companies and locations.\n\nFor hiring, consider candidates with strong foundational skills in machine learning and data science, and be prepared to offer competitive compensation to attract top talent in this high-demand field."
+      }
+    ]
+  },
+  "position_details": {
+    "machine learning intern": {
+      "skills": [
+        "machine learning knowledge"
+      ],
+      "budget": "10000",
+      "timeline": null,
+      "experience_level": null,
+      "location": "boston"
+    }
+  },
+  "session_state": {
+    "start_time": "2025-04-11T00:50:35.781309",
+    "position": "machine learning intern",
+    "completed_steps": [
+      "extract_hiring_needs",
+      "job_description",
+      "hiring_plan",
+      "market_research",
+      "complete"
+    ],
+    "position_history": [
+      "machine learning intern"
+    ],
+    "timestamp": "2025-04-11T00:52:44.725016",
+    "last_question": "What is the work location or arrangement for the machine learning intern position?",
+    "interaction_count": 3,
+    "last_response": "boston",
+    "extracted_details": {
+      "skills": [
+        "machine learning knowledge"
+      ],
+      "budget": "10000",
+      "location": "boston"
+    },
+    "clarification_complete": true,
+    "status": "complete"
+  },
+  "timestamp": "2025-04-11T00:52:44.725016"
+}

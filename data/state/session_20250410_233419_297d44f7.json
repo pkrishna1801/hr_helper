@@ -1,0 +1,17 @@
+{
+  "current_position": "Java developer",
+  "stage": "clarify",
+  "session_state": {
+    "start_time": "2025-04-10T23:34:48.382682",
+    "position": "Java developer",
+    "completed_steps": [
+      "extract_hiring_needs"
+    ],
+    "position_history": [
+      "Java developer"
+    ],
+    "timestamp": "2025-04-10T23:34:49.250283",
+    "last_question": "What is the required experience level for the Java developer position?"
+  },
+  "timestamp": "2025-04-10T23:34:49.250283"
+}

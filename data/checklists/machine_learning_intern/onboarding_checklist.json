@@ -1,0 +1,72 @@
+[
+  {
+    "item": "Send welcome email with onboarding schedule and resources",
+    "category": "Communication",
+    "timeline": "Before Day 1",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Prepare and set up workstation with necessary hardware and software",
+    "category": "IT Setup",
+    "timeline": "Before Day 1",
+    "assignee": "IT",
+    "completed": false
+  },
+  {
+    "item": "Provide access to company systems and tools (e.g., email, Slack, project management software)",
+    "category": "IT Setup",
+    "timeline": "Day 1",
+    "assignee": "IT",
+    "completed": false
+  },
+  {
+    "item": "Conduct company orientation session",
+    "category": "Orientation",
+    "timeline": "Day 1",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Introduce intern to team and assign a mentor",
+    "category": "Team Integration",
+    "timeline": "Day 1",
+    "assignee": "Hiring Manager",
+    "completed": false
+  },
+  {
+    "item": "Review job responsibilities and expectations",
+    "category": "Role Clarification",
+    "timeline": "Day 1",
+    "assignee": "Hiring Manager",
+    "completed": false
+  },
+  {
+    "item": "Provide training on machine learning tools and platforms used by the company",
+    "category": "Training",
+    "timeline": "Week 1",
+    "assignee": "Hiring Manager",
+    "completed": false
+  },
+  {
+    "item": "Set up regular check-in meetings with mentor and manager",
+    "category": "Communication",
+    "timeline": "Week 1",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Enroll in any required compliance or safety training",
+    "category": "Training",
+    "timeline": "Week 1",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Review and sign any necessary HR documents (e.g., NDA, intern agreement)",
+    "category": "Documentation",
+    "timeline": "Day 1",
+    "assignee": "HR",
+    "completed": false
+  }
+]

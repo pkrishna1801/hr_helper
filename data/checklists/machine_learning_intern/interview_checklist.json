@@ -1,0 +1,72 @@
+[
+  {
+    "item": "Review job description and requirements for the machine learning intern position",
+    "category": "Preparation",
+    "timeline": "Before interview",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Screen resumes and shortlist candidates",
+    "category": "Candidate Selection",
+    "timeline": "Before interview",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Schedule interview date and time with shortlisted candidates",
+    "category": "Scheduling",
+    "timeline": "Before interview",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Prepare interview questions focusing on machine learning skills and knowledge",
+    "category": "Preparation",
+    "timeline": "Before interview",
+    "assignee": "Hiring Manager",
+    "completed": false
+  },
+  {
+    "item": "Set up technical assessment or coding test if applicable",
+    "category": "Assessment",
+    "timeline": "Before interview",
+    "assignee": "Hiring Manager",
+    "completed": false
+  },
+  {
+    "item": "Send interview confirmation and details to candidates",
+    "category": "Communication",
+    "timeline": "Before interview",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Prepare interview panel with relevant team members",
+    "category": "Preparation",
+    "timeline": "Before interview",
+    "assignee": "Hiring Manager",
+    "completed": false
+  },
+  {
+    "item": "Conduct the interview and take detailed notes",
+    "category": "Interview",
+    "timeline": "Day of interview",
+    "assignee": "Hiring Manager",
+    "completed": false
+  },
+  {
+    "item": "Evaluate candidates based on interview performance and assessment results",
+    "category": "Evaluation",
+    "timeline": "After interview",
+    "assignee": "Hiring Manager",
+    "completed": false
+  },
+  {
+    "item": "Provide feedback to candidates and inform them of the decision",
+    "category": "Communication",
+    "timeline": "After interview",
+    "assignee": "HR",
+    "completed": false
+  }
+]

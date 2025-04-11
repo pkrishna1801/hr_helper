@@ -1,0 +1,18 @@
+Subject: Update on Your Application for the Machine Learning Intern Position
+
+Dear [Candidate's Name],
+
+I hope this message finds you well. I would like to extend our sincere gratitude for your interest in the Machine Learning Intern position at [Company Name]. We appreciate the time and effort you invested in your application and interview process.
+
+After careful consideration, we have decided to move forward with another candidate who more closely matches our current needs for this role. This decision was not easy, as we were impressed by your skills in Python and your enthusiasm for machine learning, even without prior experience.
+
+We encourage you to apply for future opportunities that align with your skills and interests. We believe that your passion and dedication will be valuable assets in your career journey.
+
+Thank you once again for considering [Company Name] as a potential place to grow your career. We wish you the best of luck in your job search and future endeavors.
+
+Warm regards,
+
+[Your Full Name]  
+[Your Job Title]  
+[Company Name]  
+[Contact Information]

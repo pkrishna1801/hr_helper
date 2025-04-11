@@ -1,0 +1,18 @@
+Subject: Invitation to Interview for Machine Learning Intern Position
+
+Dear [Candidate's Name],
+
+I hope this message finds you well. Thank you for applying for the Machine Learning Intern position with us. We were impressed by your background and skills in Python and machine learning, and we are excited to invite you to the next stage of our selection process.
+
+The position is a remote internship, allowing you the flexibility to work from your preferred location. We believe this opportunity will provide you with valuable experience and the chance to contribute to exciting projects.
+
+We would like to schedule an interview to discuss your application further and explore how your skills align with our team's goals. Please let us know your availability for a virtual meeting over the next week, and we will do our best to accommodate your schedule.
+
+Thank you once again for your interest in joining our team. We look forward to the possibility of working together and learning more about your potential contributions.
+
+Warm regards,
+
+[Your Full Name]  
+[Your Position]  
+[Company Name]  
+[Contact Information]

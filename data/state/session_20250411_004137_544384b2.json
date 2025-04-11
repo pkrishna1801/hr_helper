@@ -1,0 +1,33 @@
+{
+  "current_position": "Java developer",
+  "stage": "clarify",
+  "position_details": {
+    "Java developer": {
+      "skills": [],
+      "budget": null,
+      "timeline": null,
+      "experience_level": "entry",
+      "location": null
+    }
+  },
+  "clarification_complete": false,
+  "session_state": {
+    "start_time": "2025-04-11T00:42:23.341353",
+    "position": "Java developer",
+    "completed_steps": [
+      "extract_hiring_needs"
+    ],
+    "position_history": [
+      "Java developer"
+    ],
+    "timestamp": "2025-04-11T00:43:12.977075",
+    "last_question": "What is the work location or arrangement for the Java developer position (e.g., remote, on-site, hybrid)?",
+    "interaction_count": 1,
+    "last_response": "entry",
+    "extracted_details": {
+      "experience_level": "entry"
+    },
+    "clarification_complete": false
+  },
+  "timestamp": "2025-04-11T00:43:12.977075"
+}

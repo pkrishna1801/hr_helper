@@ -1,0 +1,72 @@
+[
+  {
+    "item": "Review resume for relevant coursework and projects",
+    "category": "Resume Screening",
+    "timeline": "Before interview",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Check for experience with programming languages (e.g., Python, R)",
+    "category": "Technical Skills Assessment",
+    "timeline": "Before interview",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Verify academic qualifications and GPA",
+    "category": "Academic Verification",
+    "timeline": "Before interview",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Assess familiarity with machine learning frameworks (e.g., TensorFlow, PyTorch)",
+    "category": "Technical Skills Assessment",
+    "timeline": "Before interview",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Evaluate problem-solving skills through a coding test",
+    "category": "Technical Skills Assessment",
+    "timeline": "Before interview",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Conduct initial phone screening to assess communication skills",
+    "category": "Communication Skills Assessment",
+    "timeline": "Before interview",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Check for any relevant internship or work experience",
+    "category": "Experience Verification",
+    "timeline": "Before interview",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Confirm availability for the internship duration",
+    "category": "Availability Check",
+    "timeline": "Before interview",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Verify eligibility to work in the country",
+    "category": "Legal Compliance",
+    "timeline": "Before interview",
+    "assignee": "HR",
+    "completed": false
+  },
+  {
+    "item": "Prepare a shortlist of candidates for the hiring manager",
+    "category": "Candidate Shortlisting",
+    "timeline": "Before interview",
+    "assignee": "HR",
+    "completed": false
+  }
+]
